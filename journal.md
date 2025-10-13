@@ -1,17 +1,22 @@
 ## Wednesday 1st October 2025
 ### Character Design: The Best-Friend
-
 For the character design, we envisioned a stereotypical Malibu girl with an extravagant and exaggerated sense of style—everything from her body shape to her nails and eyelashes is over the top. While the design may evolve as we continue developing it, our current concept features a pronounced hourglass figure with wide hips, a small waist, long legs, and a small face. We were torn between making her really creative, drawing inspiration from RuPaul’s Drag Race fashion, or keeping her design simple and stereotypical to match her personality. In the end, we chose the latter. For proportions, we decided on legs measuring 85cm, a bust of 30cm, and a neck and head totaling 35cm, all within an overall height of 150cm.
 
-### Building the Base
+### Building the Base: Part01 - TBC
 The base structure is essentially a cube that tapers into a prism-like shape. To be honest, we didn’t really think ahead—we treated this assignment as separate from the next step, which definitely made things harder for ourselves moving forward. We started by finding cardboard boxes and cutting along the edges to create two wider rectangles for the front and back pieces, and two thinner rectangles for the sides of the cube. Each cardboard rectangle took a lot of time to reinforce. We cut smaller, thinner rectangular strips and layered them so that the corrugation ran perpendicular to the cardboard underneath. We then overlaid all the pieces, paying extra attention to the folded areas of the base rectangles. Overall, we were incredibly successful in creating very solid and robust base cubes.
 
-
 ## Thursday 2nd October 2025
+### Building the Base: Part02 - COMPLETE
+Before cutting out the prism shapes, we decided to connect all the panels together first to make the structure more stable and easier to figure out the positioning of the prism elements. We started by attaching the front and side panels, using a small square piece of cardboard at the bottom to ensure the two panels were at a right angle. After that, we reinforced the connection with tape, and then used a glue gun to secure both the outer and inner edges, making sure everything was fully robust. We repeated the same process for the other two panels until we had a complete cube shape.
 
-....
+For the prism section, we were lucky to have plenty of scraps left over from the already reinforced panels, so we just had to cut them to size. We decided on the height since this part would essentially serve as the waist. After cutting out the front piece, we angled it to determine and cut the matching side panel. Similar to how we constructed the base rectangular panels, we glued the front and side pieces together. However, we quickly realized that because these angled pieces were reinforced, they created small gaps when joined, which caused the heights to become uneven. To fix this, we flipped the other two sides inside out so that the reinforced layers faced outward, allowing the pieces to align more accurately. This wouldn’t be a major issue since the entire structure would later be covered with fabric, hiding any visible seams. Once the prism was properly formed, we roughly cut out a square lid for the waist section and glued everything together—of course, adding plenty of tape as an extra precaution.
 
+Finally, once everything was assembled, we were still obsessed with reinforcing the structure. We went inside the base, and from cutting the angled prism waist pieces, we luckily had plenty of leftover triangles. We used those to reinforce the cube first and then later the prism. Since the pieces weren’t cut exactly to size—because of the angled shape—we just pushed the triangles in until they slotted neatly into place and then glued everything down. With all the reinforcing and layering we had done, the base ended up being quite heavy.
 
-## Monday 6th October 2025
+## Tuesday 7th October 2025
+### Installing the Motor - TBC
+We needed to install a motor at the waist because one of the character’s mannerisms would be a sassy twisting motion—almost like tossing her hair back. However, we also had to consider that this motor would need to support the entire upper body, including the arms and headpiece, which would be quite heavy once reinforced. This meant we had to use a larger, more powerful motor. We couldn’t simply attach the motor directly to the flat square lid of the prism, as that would be unreliable and could compromise the structure’s integrity. To solve this, we cut two flat wooden panels slightly smaller than the square lid. One panel was glued inside the base body, and the other was glued on top of the lid’s outer surface, creating a sturdy foundation for attaching the motor to the lower body.
 
-.....
+## Thursday 9th October 2025
+### Installing the Motor - COMPLETE
+
