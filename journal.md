@@ -53,11 +53,11 @@ Once we drilled it, we tried to screw the bolt through the wooden panel and into
 
 ## Friday 14th November 2025
 
-<img width="333" height="444" alt="Screenshot 2025-12-12 at 10 11 18 PM" src="https://github.com/user-attachments/assets/863f9f31-244c-49d3-8032-59a8e30f7604" />
-<img width="334" height="445" alt="Screenshot 2025-12-12 at 10 11 09 PM" src="https://github.com/user-attachments/assets/1f3ef28d-3e0a-42ec-b6ad-3b9c86ba9a87" />
-<img width="334" height="447" alt="Screenshot 2025-12-12 at 10 11 02 PM" src="https://github.com/user-attachments/assets/2dbf9e94-a056-4ad3-b34c-837be91c39e6" />
+<img height="370" alt="Screenshot 2025-12-12 at 10 11 18 PM" src="https://github.com/user-attachments/assets/863f9f31-244c-49d3-8032-59a8e30f7604" />
+<img height="370" alt="Screenshot 2025-12-12 at 10 11 09 PM" src="https://github.com/user-attachments/assets/1f3ef28d-3e0a-42ec-b6ad-3b9c86ba9a87" />
+<img height="370" alt="Screenshot 2025-12-12 at 10 11 02 PM" src="https://github.com/user-attachments/assets/2dbf9e94-a056-4ad3-b34c-837be91c39e6" />
 
-
+We first started by revising the waist motor code. We reduced the rotation degree to prevent the arms from hitting the body. We also added a for loop to have the waist movement repeat twice. Once we were satisfied with the waist code, we moved on to attaching the elbow motors. We first screwed the motors onto their mounts, and then attached the motor mounts to the bottom of the elbows, where the wooden boards had been glued. However, we quickly realized that we needed an opening in the arm so as to drill a hole aligned with the mount and secure it using a nut and bolt. Since the forearm was already fully constructed, there was no existing access point, so we had to cut an opening large enough for the fastening process to take place. Overall, this was fairly seamless and didn’t take too long of a time to complete.
 
 ## Saturday 15th November 2025
 
