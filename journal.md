@@ -50,6 +50,21 @@ Once we drilled it, we tried to screw the bolt through the wooden panel and into
 
 
 
+
+
+
+
+
+
+
+
+## Tuesday 18th November 2025
+<img height="370" alt="Screenshot 2025-12-12 at 9 13 55 PM" src="https://github.com/user-attachments/assets/ed45e015-4db5-464d-8789-335c2cfeb9d7" />
+<img height="370" alt="Screenshot 2025-12-12 at 9 13 49 PM" src="https://github.com/user-attachments/assets/ca31d676-8b77-422c-a01f-807e49352eb7" />
+<img height="370" alt="Screenshot 2025-12-12 at 9 13 42 PM" src="https://github.com/user-attachments/assets/df023c47-de8f-40a0-b8bd-a15429d7ac26" />
+
+Now that we had finished the arms, we wanted to move on to constructing the complete hand. Initially, this seemed ambitious but achievable in theory; however, when faced with the reality of building, we quickly realized there were many gaps in our understanding that prevented us from making real progress. For instance, we were completely stumped on how to attach the motor and determine its proper position. Rather than wasting time, we decided to construct just the base of the hand, since during hand clacking only the top part would move with the motor. We took the necessary measurements, cut the pieces, and glued everything together. Thankfully, today was relatively straightforward, and we didn’t need to spend too much time in the lab.
+
 ## Saturday 22nd November 2025
 We noticed that when trying to drive, the motor was simply not working. It was definitely not a code issue, since it had been functioning fine previously. Upon checking the wiring, we found that the soldering on one motor wire had come loose, so we had to resolder it. We were also working on improving our case actions, including adding a 360° waist rotation. However, I accidentally placed the command for the 360° spin in the section of code that sets the motors’ default positions when the Arduino powers on. As a result, the robot spun unexpectedly while the arms were straight down, causing one arm to be ripped off and the wires to detach. The experience was so traumatic that we decided to remove this action entirely, recognizing that it was simply too dangerous and not worth the risk. This incident set our progress back significantly, and we ended up wasting most of the day, feeling very disheartened.
 
@@ -73,6 +88,10 @@ Even though this process took a considerable amount of time, we decided to conti
 <img height="370" alt="Screenshot 2025-12-12 at 8 26 51 PM" src="https://github.com/user-attachments/assets/b054eb69-ad28-4efe-b67b-1418487d4be2" />
 <img height="370" alt="Screenshot 2025-12-12 at 8 26 38 PM" src="https://github.com/user-attachments/assets/c5e0d838-669a-446d-9148-b0b6e1e0dccd" />
 <img height="370" alt="Screenshot 2025-12-12 at 8 42 10 PM" src="https://github.com/user-attachments/assets/002f9b2a-4a3b-4c52-b184-33462ecbfa99" />
+
+A day prior to this, the professor had taught us the proper positioning of the hand motor and explained what we needed to do to make the robot’s hand clack. To ensure we didn’t forget any details, we made sure to record everything on camera. The professor then took us to the scene lab to cut the wooden shafts with grooves, which were essential for the hand mechanism.
+
+...
 
 We lost the wooden pieces the professor had cut for us, along with the motor, so Clara went to the scene shop first thing in the morning to recut everything. By the time I returned, the wooden shafts had been cut, including the cardboard flaps for the hands, so I started assembling all the parts. I marked the holes for the motor mount, drilled them, and used a nut and bolt to secure the motor firmly in place. To attach the wooden shafts to the motor horn, I hot-glued the horn onto the wood just above the groove so it would stay aligned before drilling through and fastening it with a screw. The process was fairly simple and repetitive. Once everything was secured, we slid the cardboard hands into the grooves, connected the wires to pins 18 and 16 on the Arduino board, tested the code to confirm it worked, and that was it. We were done with the hand motors.
 
