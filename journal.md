@@ -26,8 +26,8 @@ Finally, once everything was assembled, we were still obsessed with reinforcing 
 
 ## Tuesday 7th October 2025
 ### Installing the Motor: Part01 - TBC
-<img width="600" alt="Screenshot 2025-12-12 at 4 37 06 PM" src="https://github.com/user-attachments/assets/57582ab2-725b-471c-8b8b-9ad30c1cc92a" />
-<img width="600" alt="Screenshot 2025-12-12 at 4 37 14 PM" src="https://github.com/user-attachments/assets/eb5845fb-805c-44e1-9fee-d72085432e61" />
+<img width="500" alt="Screenshot 2025-12-12 at 4 37 06 PM" src="https://github.com/user-attachments/assets/57582ab2-725b-471c-8b8b-9ad30c1cc92a" />
+<img width="500" alt="Screenshot 2025-12-12 at 4 37 14 PM" src="https://github.com/user-attachments/assets/eb5845fb-805c-44e1-9fee-d72085432e61" />
 
 We needed to install a motor at the waist because one of the character’s mannerisms would be a sassy twisting motion—almost like tossing her hair back. However, we also had to consider that this motor would need to support the entire upper body, including the arms and headpiece, which would be quite heavy once reinforced. This meant we had to use a larger, more powerful motor. We couldn’t simply attach the motor directly to the flat square lid of the prism, as that would be unreliable and could compromise the structure’s integrity. To solve this, we cut two flat wooden panels slightly smaller than the square lid. One panel was glued inside the base body, and the other was glued on top of the lid’s outer surface, creating a sturdy foundation for attaching the motor to the lower body.
 
