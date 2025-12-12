@@ -109,11 +109,26 @@ Now that the base was finished, we moved on to attaching the lazy Suzan (which, 
 
 To begin, we had to remove the motor from the top lid of the bottom torso to do the wiring, which unfortunately required crawling inside the robot again. We then connected 2 wires from the motor’s -/+ terminals to the corresponding positive and negative terminals of the 12V battery. Additionally, we connected 2 more wires to the GND and pin 7 on the board. After completing these connections and testing to ensure the code functioned correctly, we replaced the jumper wires with standard wires and switched the board to an Arduino Mega (provided by the professor).
 
+## Tuesday 28th October 2025
 
+<img height="370" alt="Screenshot 2025-12-13 at 12 46 24 AM" src="https://github.com/user-attachments/assets/628ce4af-e56e-42a9-8420-6c542101f289" />
+<img height="370" alt="Screenshot 2025-12-13 at 12 46 18 AM" src="https://github.com/user-attachments/assets/40ad494a-073a-4b07-b239-2b213ff7e617" />
 
+Today, we focused on building the remaining components of the robot: completing the shoulders and the neck. We began by sketching our design for the shoulders on the whiteboard. After some discussion, we decided to construct them out of cardboard, as initially, we had considered simply using a long pole, but we wanted the shoulders to have some shape and rigidity. We opted for a T-shaped design, with the vertical section glued to the front and back of the upper torso for added support, and the horizontal section extending outward to form the shoulders. To create the shoulders, we used cardboard that already had a natural crease on the side we needed to fold. We calculated the required lengths based on our design, then cut and folded the cardboard so that it formed the intended T-shape, sitting exactly as planned. We attached the shoulders to the torso using hot glue. We also found a cardboard pole with the ideal circumference, measured it to the desired height, and cut it to size using a pull saw. This pole was then hot-glued onto the shoulders to portray the neck.
 
+## Wednesday 29th October 2025
 
+<img height="370" alt="Screenshot 2025-12-13 at 12 45 46 AM" src="https://github.com/user-attachments/assets/f506bb3f-7f1d-461e-8cb5-08d470493d71" />
+<img height="370" alt="Screenshot 2025-12-13 at 12 45 52 AM" src="https://github.com/user-attachments/assets/9465d82a-384e-43f5-954a-b23ac87d4be9" />
+<img height="370" alt="Screenshot 2025-12-13 at 12 45 58 AM" src="https://github.com/user-attachments/assets/3f8fa044-3a88-421a-ab8b-f4cdadfe7ae8" />
+<img height="370" alt="Screenshot 2025-12-13 at 12 46 59 AM" src="https://github.com/user-attachments/assets/3677f480-c5d7-4e95-9637-41b86c841096" />
 
+We began by connecting the upper body to the servo motor. First, we marked approximate positions for the holes on the wooden board that would form the bottom of the upper torso, then drilled them to accommodate the bolts. Next, we mounted the hub onto the board so that its flange extended above the lazy Susan, following the professor’s instructions. Once the hub was bolted securely, the board was firmly attached to the lower torso. With that in place, we glued the upper torso onto the board and then moved on to constructing the robot’s arms.
+
+<img height="370" height="449" alt="Screenshot 2025-12-13 at 12 47 17 AM" src="https://github.com/user-attachments/assets/4f481e55-9304-47e4-9bb8-ba53787621a0" />
+<img height="370" height="449" alt="Screenshot 2025-12-13 at 12 47 11 AM" src="https://github.com/user-attachments/assets/1ad640b9-30dd-493f-ade1-75d2b0fd8bc0" />
+
+We decided to make the arms as long rectangular pieces, with a total length reaching the top of the robot’s hips. We hot-glued the upper arms to the shoulders, though we later realized that the shoulders were not fully secured to the torso at the middle, causing one arm to slightly touch the upper torso while the other did not. We completed both the upper and lower sections of the arms but did not attach them yet, as we plan to install motors at the elbows.
 
 ## Sunday 2nd November 2025
 Communication between Reciever and Transmitter Successful!!!
