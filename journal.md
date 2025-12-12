@@ -66,6 +66,10 @@ Once we drilled it, we tried to screw the bolt through the wooden panel and into
 
 Today was mostly focused on attaching the forearm to the arm. In terms of complexity, this task was second only to the waist motor, as it involved many steps to fully assemble all the pieces, making the process quite tedious. To attach the arms to the elbow motors, we first had to create our own brackets out of metal strips from the scene shop. We bent the strips into a bracket shape so that they would hug the arm rectangle. After measuring the width of the arm and marking it with a pen, we secured the strip in a clamp along the line and began hammering. Once the bracket shape was formed, we used a pull saw to cut the ends to size. The most complicated part was attaching the bracket to the servo motor’s metal shaft. We had to carefully mark the location of each bolt and screw. Professor Shiloh lent us his special tools: one pen with a very fine, long tip for precise marking, and another tool that punched small dents into the metal to guide drilling. For one specific bolt, we even had to shave down the bolt head so it wouldn’t interfere with a curved, extruded part of the servo motor shaft. Once everything was properly slotted and screwed in, we repeated the same process to attach the bracket to the other arm motor. Once everything was assembled, we drilled 4 screws through the metal bracket into the wooden slotted part of the arm to securely fasten all the components.
 
+<img height="370" alt="Screenshot 2025-12-12 at 9 26 26 PM" src="https://github.com/user-attachments/assets/4ba587e6-5b6a-46ed-bbf2-9f8fd67cffb5" />
+<img height="370" alt="Screenshot 2025-12-12 at 9 26 16 PM" src="https://github.com/user-attachments/assets/d43f7766-e9e7-46ba-ab1a-69d3d5950bfb" />
+
+
 ## Tuesday 18th November 2025
 
 <img height="370" alt="Screenshot 2025-12-12 at 9 13 55 PM" src="https://github.com/user-attachments/assets/ed45e015-4db5-464d-8789-335c2cfeb9d7" />
