@@ -49,11 +49,13 @@ Attaching the actual motor to the board was an absolute nightmare—honestly, a 
 Once we drilled it, we tried to screw the bolt through the wooden panel and into the motor—but because the hole was exactly the same size as the bolt, it was ridiculously hard to fit it through. To make matters worse, we had already glued on the square lid, which meant we had to climb inside the lower body to line up the bolts. It was cramped, dark, and stuffy—basically impossible to see what we were doing. To double-check if everything aligned, we had to fit the motor inside the lower body and screw from the outside, repeating this over and over. The second bolt hole was even worse, since it had to be drilled with much more precision and left no room for error. This entire ordeal took up the rest of the class time. Ironically, we later realized that instead of struggling to drill perfect placements for the holes, we could’ve just drilled slightly larger holes to make screwing easier, then used nuts and washers to secure the motor in place.
 
 
+Today was the continuation of refining the visuals of the robot as well as the programming for the neopixels. We decided to put the sparkly silver dress on her as well as cover her shoulders, which we didn't paint, and we pinned the fabrics down using some cloth pins.
+
+We also painted the bottom half of her body with silver paint because we wanted the rest of the sides that won't be shown with the silver skirt to still seem like an extension of the dress she's wearing.
 
 
 
-
-## 2nd-3rd December 2025
+## Tuesday 2nd December 2025
 
 <img width="370" alt="Screenshot 2025-12-12 at 7 09 53 PM" src="https://github.com/user-attachments/assets/93cc9164-349a-4607-b4f4-9ccf2b5aeb7b" />
 <img width="370" alt="Screenshot 2025-12-12 at 7 09 46 PM" src="https://github.com/user-attachments/assets/c621899a-a1dd-4321-9911-4645bfe441b1" />
@@ -61,7 +63,14 @@ Once we drilled it, we tried to screw the bolt through the wooden panel and into
 
 We finished soldering the Neopixels today, which took a very long time and required a lot of redoing. Wires soldered during the previous session kept detaching, and because the spaces between the solder points were so small, reheating one connection often melted the solder on the adjacent wire. As a result, fixing one wire usually meant having to redo two or even three. After we cut out 4 rectangular openings for the eyebrows, 2 for default brows (the bottom row) and 2 for raised brows (the top row). After that, we inserted the Neopixels behind these openings. We were extremely anxious pushing the Neopixels through the holes because we were worried the wires might detach again, especially where the wires were pressed into the tight perpendicular edge of the cardboard. To prevent anything from shifting, we secured each Neopixel firmly in place with multiple vertical strips of tape.
 
+## Wednesday 3rd December 2025
+Today's focus was on programming the Neopixels. There was a lot of trial and error involved. We started by using the default Neopixel test code from Arduino just to confirm that the LEDs were functioning. Once that worked, we began adjusting the code to make the eyebrows respond to specific cases. We also wanted to change the eyebrow colors, but during programming we realized that some Neopixels weren’t functioning, specifically the upper right eyebrow. This turned out to be a soldering issue rather than a coding issue; if we pressed the wires tightly in certain spots, the LEDs would temporarily light up before turning off again. Since at least some of the Neopixels were working, we decided to leave the faulty ones for another time.
 
+We also finished pinning the clothes today. Our goal was to complete all the visual elements of her design, so we brought in the silver dress. Because the robot is bulky and shaped in a way that normal clothing can’t fit her without cutting it apart, we chose not to dress her fully. Instead, we pinned the front of the dress directly to the front of the robot. Everything else we planned to paint silver to match. For the upper torso, we covered her shoulders with a blue shawl and added a fur shawl to cover her chest area. We placed a pearl necklace on top and pinned the wig in a way that allowed only the Neopixels to show. Her physical appearance really started coming together—she looked striking and had a dominating presence.
+
+<img width="370" alt="Screenshot 2025-12-12 at 7 10 03 PM" src="https://github.com/user-attachments/assets/f5e03446-908a-43ab-9238-767efafa25e7" />
+<img width="370" alt="Screenshot 2025-12-12 at 4 46 18 PM" src="https://github.com/user-attachments/assets/ca8667af-38aa-4fad-8940-e6f8f1d25b13" />
+<img width="370" alt="Screenshot 2025-12-12 at 7 10 27 PM" src="https://github.com/user-attachments/assets/1babb739-1ec9-4c9f-8064-9de887d46cdf" />
 
 ## Sunday 7th December 2025 (D-Day 2)
 Clara added the typing sound effect to our dialogue for the texting scene with the wife. We also made the executive decision to use only two functioning eyebrows. The eyebrow LEDs were far too unstable: sometimes all four worked, sometimes only three, and overall they were too unreliable. With the limited time we had left, it made more sense to focus on getting just the bottom two LED strips working consistently. During rehearsal, we realized the LEDs were too bright to be covered by the balding wig, so we decided to cover them with cardboard instead. We didn’t want to risk damaging the LED strip by applying hot glue directly onto it, especially since it could be reused, so we first placed tape over the LED strip and then applied hot glue on top of the tape to secure the cardboard. Finally, we adjusted the code so that the eyebrows remained lit throughout the dialogue and turned off at the appropriate moment when the lines finish. It was relatively easy as we used the delay() command. 
