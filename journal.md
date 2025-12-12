@@ -14,7 +14,7 @@ The base structure is essentially a cube that tapers into a prism-like shape. To
 
 ## Thursday 2nd October 2025
 ### Building the Base: Part02 - COMPLETE
-<img width="370" alt="Screenshot 2025-12-12 at 4 35 09 PM" src="https://github.com/user-attachments/assets/264f8e96-3c34-4bcf-b83d-c81b1dacc8a2" />
+<img height="370" alt="Screenshot 2025-12-12 at 4 35 09 PM" src="https://github.com/user-attachments/assets/264f8e96-3c34-4bcf-b83d-c81b1dacc8a2" />
 
 Before cutting out the prism shapes, we decided to connect all the panels together first to make the structure more stable and easier to figure out the positioning of the prism elements. We started by attaching the front and side panels, using a small square piece of cardboard at the bottom to ensure the two panels were at a right angle. After that, we reinforced the connection with tape, and then used a glue gun to secure both the outer and inner edges, making sure everything was fully robust. We repeated the same process for the other two panels until we had a complete cube shape.
 
@@ -33,7 +33,6 @@ We needed to install a motor at the waist because one of the character’s manne
 
 Once again, one of our biggest mistakes—and another example of how we failed to think ahead—was attaching the square lid onto the prism too early. Considering the next step involved drilling and screwing the motor in place, our lives would have been so much easier if we had just waited to attach the lid until after all the drilling was done. Unfortunately, by the time we realized this, it was too late—the lid had been glued on so thickly that we couldn’t cut or tear it off without damaging the entire structure.
 
-
 ## Thursday 9th October 2025
 ### Connecting the Lower Body to the Wheel Base: Part01 - TBC
 Today’s work was by far the most difficult and exhausting—probably because we were trying to figure everything out ourselves instead of asking the professor for help. A lot of things didn’t go as planned. We needed to attach the lower body to the moving wheel base, but since the lower body was slightly larger than the wheel base, we cut two 50cm wooden rods—just a bit longer than the base—to act as supports. The main problem was that we weren’t confident using the drill. We were used to drilling holes for nuts and bolts, but not for screws, and we were too nervous to follow through with it. It also ended up being really time-consuming, so we decided to move on to the motor instead, especially since we were even less confident about that part and needed the professor’s supervision. Attaching the lower body to the wheel base will continue after fall break, before class.
@@ -49,12 +48,23 @@ Attaching the actual motor to the board was an absolute nightmare—honestly, a 
 Once we drilled it, we tried to screw the bolt through the wooden panel and into the motor—but because the hole was exactly the same size as the bolt, it was ridiculously hard to fit it through. To make matters worse, we had already glued on the square lid, which meant we had to climb inside the lower body to line up the bolts. It was cramped, dark, and stuffy—basically impossible to see what we were doing. To double-check if everything aligned, we had to fit the motor inside the lower body and screw from the outside, repeating this over and over. The second bolt hole was even worse, since it had to be drilled with much more precision and left no room for error. This entire ordeal took up the rest of the class time. Ironically, we later realized that instead of struggling to drill perfect placements for the holes, we could’ve just drilled slightly larger holes to make screwing easier, then used nuts and washers to secure the motor in place.
 
 
+
+
+
+
+
+## Thursday 27th November 2025
+
+<img height="370" alt="Screenshot 2025-12-12 at 8 26 18 PM" src="https://github.com/user-attachments/assets/0031ad39-bbee-44b5-aac0-aff59773a064" />
+<img height="370" alt="Screenshot 2025-12-12 at 8 26 25 PM" src="https://github.com/user-attachments/assets/eb6865ac-3baf-450c-9c96-95a53061e85e" />
+<img height="370" alt="Screenshot 2025-12-12 at 8 26 32 PM" src="https://github.com/user-attachments/assets/0cd02966-92d5-423c-9bd3-f34d1ae9b78c" />
+<img height="370" alt="Screenshot 2025-12-12 at 8 26 51 PM" src="https://github.com/user-attachments/assets/b054eb69-ad28-4efe-b67b-1418487d4be2" />
+<img height="370" alt="Screenshot 2025-12-12 at 8 26 38 PM" src="https://github.com/user-attachments/assets/c5e0d838-669a-446d-9148-b0b6e1e0dccd" />
+
+We lost the wooden pieces the professor had cut for us, along with the motor, so Clara went to the scene shop first thing in the morning to recut everything. By the time I returned, the wooden shafts had been cut, including the cardboard flaps for the hands, so I started assembling all the parts. I marked the holes for the motor mount, drilled them, and used a nut and bolt to secure the motor firmly in place. To attach the wooden shafts to the motor horn, I hot-glued the horn onto the wood just above the groove so it would stay aligned before drilling through and fastening it with a screw. The process was fairly simple and repetitive. Once everything was secured, we slid the cardboard hands into the grooves, connected the wires to pins 18 and 16 on the Arduino board, tested the code to confirm it worked, and that was it. We were done with the hand motors.
+
 ## Friday 28th November 2025
-
-
-
-
-
+Today was focused on reorganizing the cases and filling in the empty action gaps. From previous rehearsals, we noticed that there were many dialogue moments where our robot wasn’t doing anything, which made her feel a bit lifeless. So we brainstormed how to use our remaining actions to make her movements feel more active and intentional. One of the main additions was the hand-snapping motion. It fit naturally into the texting scene, where the best friend is typing messages to the wife on the husband’s behalf. By reorganizing and adding more actions, it also became clearer which motors and movements were still missing. We also needed to make sure the action timing aligned with the dialogue, so we added a lot of delay() functions to keep everything synchronized and harmonious. However, during the case run-throughs, we noticed the hand motor kept falling off again, which was incredibly frustrating because it happened constantly without any pause. Every time we pressed it back on, it would fall off again during the very next hand movement. This is something we need to fix as soon as possible.
 
 ## Monday 1st December 2025
 
