@@ -10,7 +10,7 @@ The base structure is essentially a cube that tapers into a prism-like shape. To
 <img width="370" alt="Screenshot 2025-12-12 at 4 31 23 PM" src="https://github.com/user-attachments/assets/4221c14b-c292-4587-8580-2aa5abd6d2dc" />
 <img width="370" alt="Screenshot 2025-12-12 at 4 31 31 PM" src="https://github.com/user-attachments/assets/1f2e3139-cdea-492d-ab31-7a5a5033b14d" />
 <img width="370" alt="Screenshot 2025-12-12 at 4 31 38 PM" src="https://github.com/user-attachments/assets/f0daa346-7d2f-4578-81b1-520b8bf94a08" />
-<img width="370"al t="Screenshot 2025-12-12 at 4 31 47 PM" src="https://github.com/user-attachments/assets/52653cb8-db32-43c6-a9c3-6be4734a6d36" />
+<img width="370" alt="Screenshot 2025-12-12 at 4 31 47 PM" src="https://github.com/user-attachments/assets/52653cb8-db32-43c6-a9c3-6be4734a6d36" />
 
 ## Thursday 2nd October 2025
 ### Building the Base: Part02 - COMPLETE
