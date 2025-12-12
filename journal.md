@@ -51,6 +51,37 @@ Once we drilled it, we tried to screw the bolt through the wooden panel and into
 
 
 
+
+
+
+
+
+
+
+
+
+## Tuesday 11th November 2025
+
+<img height="370" alt="Screenshot 2025-12-12 at 10 37 30 PM" src="https://github.com/user-attachments/assets/8ffba419-12db-49f6-bd37-3ff974aec1a5" />
+
+We were finally able to fix our waist motors. The problem turned out to be quite straightforward: we had accidentally connected the wires to the pins backwards. Once we corrected the connections and plugged them in properly, the motor began rotating as expected. Next, we moved on to fixing the receiver-transmitter code, specifically the sections pertaining to the waist motor. The main changes involved renaming variables to correspond correctly to the waist motor, setting the default angle, and adjusting the angles for left and right rotation. Once these adjustments were complete, we shifted our focus to figuring out how to attach the elbow motors.
+
+<img height="370" alt="Screenshot 2025-12-12 at 10 37 36 PM" src="https://github.com/user-attachments/assets/9557c5a1-b4f1-48e9-bc86-f5dde7ef15b3" />
+<img height="370" alt="Screenshot 2025-12-12 at 10 37 49 PM" src="https://github.com/user-attachments/assets/8796522a-55b1-4b50-bf94-4cab95172146" />
+<img height="370" alt="Screenshot 2025-12-12 at 10 37 42 PM" src="https://github.com/user-attachments/assets/a27375c5-e561-40b4-9e99-4e7cfef4e89b" />
+
+The first step was cutting out the wooden boards that would form the base of the elbow structure, where we would mount the motors. We measured the size of the squares we needed and went to the Scene Shop to cut out several pieces. We then returned and glued two of the boards onto the bottom of the upper arm structures, using plenty of wood glue to ensure a strong hold. Finally, since the upper torso was already attached to the waist and the waist motor had become loose, there was no access to secure the nut and bolt from behind. We had to create a small opening on the side of the torso, just large enough to allow us to tighten the waist bolt.
+
+## Wednesday 12th November 2025
+First, we attempted to run the nRF transmitter using the new Arduino Uno we received from the professor, but it still didn’t work, the screen displayed the same issue as yesterday, showing blocks instead of readable letters or numbers:
+<img height="370" alt="Screenshot 2025-12-12 at 10 25 18 PM" src="https://github.com/user-attachments/assets/6bb607da-1071-4e86-863a-0fbfaf1ad6d9" />
+
+UPDATE: We eventually discovered that the issue was the Arduino Uno itself. After switching it out, the nRF transmitter finally displayed text on the screen. However, it still produced errors when attempting to transmit.
+UPDATE TO THE SECOND ISSUE: It turned out that we had accidentally uploaded the transmitter code to the receiver and the receiver code to the transmitter. Although we were initially suspicious of the physical components e.g., music chip and Music Maker shield, since similar issues had happened before, it thankfully started working once we uploaded the correct code to the corresponding transmitter and receiver.
+
+We then moved on to the next step: playing audio through speakers connected to the Music Maker shield. We first created some AI-generated voice lines using ElevenLabs, downloaded the audio files, and wrote the code needed to play them. After running the program, however, no sound was produced. At this point, our batteries had died again, so we decided to at least fix the script so we could run through the dialogues during class the next day. We updated Scene 2 and Scene 4 (texting scene between wife and husband, by best friend and judge), which are the scenes where our character: the best friend, appears.
+UPDATE: The audio issue turned out to be a simple mistake, we had plugged the speaker into the headphone jack instead of the actual speaker output.
+
 ## Friday 14th November 2025
 
 <img height="370" alt="Screenshot 2025-12-12 at 10 11 18 PM" src="https://github.com/user-attachments/assets/863f9f31-244c-49d3-8032-59a8e30f7604" />
