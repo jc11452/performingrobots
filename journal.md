@@ -1,16 +1,16 @@
 ## Wednesday 1st October 2025
 ### Character Design: The Best-Friend
-<img width="297" src="https://github.com/user-attachments/assets/40d1d0fc-be13-4b49-ac0a-4166550f71a4)">
+<img width="432" height="748" alt="Screenshot 2025-12-12 at 4 31 09 PM" src="https://github.com/user-attachments/assets/c8dff471-0025-4ce1-9189-5806a0bbff39" />
 
 For the character design, we envisioned a stereotypical Malibu girl with an extravagant and exaggerated sense of style—everything from her body shape to her nails and eyelashes is over the top. While the design may evolve as we continue developing it, our current concept features a pronounced hourglass figure with wide hips, a small waist, long legs, and a small face. We were torn between making her really creative, drawing inspiration from RuPaul’s Drag Race fashion, or keeping her design simple and stereotypical to match her personality. In the end, we chose the latter. For proportions, we decided on legs measuring 85cm, a bust of 30cm, and a neck and head totaling 35cm, all within an overall height of 150cm.
 
 ### Building the Base: Part01 - TBC
-![WhatsApp Image 2025-10-02 at 00 39 34](https://github.com/user-attachments/assets/7bbfa0b1-17a8-4ddb-9d3d-8a767d4b8261)
-![WhatsApp Image 2025-10-02 at 00 39 34 (1)](https://github.com/user-attachments/assets/92502260-094c-49f0-a9a0-76c77f40e6bf)
-![WhatsApp Image 2025-10-02 at 00 39 33](https://github.com/user-attachments/assets/1e2d4676-4ee9-4bf5-8327-aa56e2505a34)
-![WhatsApp Image 2025-10-02 at 00 39 33 (1)](https://github.com/user-attachments/assets/b4e77279-492b-4866-b8d0-4e9382ebe5dc)
-
 The base structure is essentially a cube that tapers into a prism-like shape. To be honest, we didn’t really think ahead—we treated this assignment as separate from the next step, which definitely made things harder for ourselves moving forward. We started by finding cardboard boxes and cutting along the edges to create two wider rectangles for the front and back pieces, and two thinner rectangles for the sides of the cube. Each cardboard rectangle took a lot of time to reinforce. We cut smaller, thinner rectangular strips and layered them so that the corrugation ran perpendicular to the cardboard underneath. We then overlaid all the pieces, paying extra attention to the folded areas of the base rectangles. Overall, we were incredibly successful in creating very solid and robust base cubes.
+
+<img width="369" height="486" alt="Screenshot 2025-12-12 at 4 31 23 PM" src="https://github.com/user-attachments/assets/4221c14b-c292-4587-8580-2aa5abd6d2dc" />
+<img width="424" height="566" alt="Screenshot 2025-12-12 at 4 31 31 PM" src="https://github.com/user-attachments/assets/1f2e3139-cdea-492d-ab31-7a5a5033b14d" />
+<img width="404" height="542" alt="Screenshot 2025-12-12 at 4 31 38 PM" src="https://github.com/user-attachments/assets/f0daa346-7d2f-4578-81b1-520b8bf94a08" />
+<img width="424" height="562" alt="Screenshot 2025-12-12 at 4 31 47 PM" src="https://github.com/user-attachments/assets/52653cb8-db32-43c6-a9c3-6be4734a6d36" />
 
 ## Thursday 2nd October 2025
 ### Building the Base: Part02 - COMPLETE
