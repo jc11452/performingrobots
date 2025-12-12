@@ -22,6 +22,8 @@ For the prism section, we were lucky to have plenty of scraps left over from the
 
 Finally, once everything was assembled, we were still obsessed with reinforcing the structure. We went inside the base, and from cutting the angled prism waist pieces, we luckily had plenty of leftover triangles. We used those to reinforce the cube first and then later the prism. Since the pieces weren’t cut exactly to size—because of the angled shape—we just pushed the triangles in until they slotted neatly into place and then glued everything down. With all the reinforcing and layering we had done, the base ended up being quite heavy.
 
+<img width="370" alt="Screenshot 2025-12-12 at 4 37 21 PM" src="https://github.com/user-attachments/assets/3bb3d672-ec07-4515-9b46-a993028c7a31" />
+
 ## Tuesday 7th October 2025
 ### Installing the Motor: Part01 - TBC
 <img width="600" alt="Screenshot 2025-12-12 at 4 37 06 PM" src="https://github.com/user-attachments/assets/57582ab2-725b-471c-8b8b-9ad30c1cc92a" />
@@ -30,7 +32,6 @@ Finally, once everything was assembled, we were still obsessed with reinforcing 
 We needed to install a motor at the waist because one of the character’s mannerisms would be a sassy twisting motion—almost like tossing her hair back. However, we also had to consider that this motor would need to support the entire upper body, including the arms and headpiece, which would be quite heavy once reinforced. This meant we had to use a larger, more powerful motor. We couldn’t simply attach the motor directly to the flat square lid of the prism, as that would be unreliable and could compromise the structure’s integrity. To solve this, we cut two flat wooden panels slightly smaller than the square lid. One panel was glued inside the base body, and the other was glued on top of the lid’s outer surface, creating a sturdy foundation for attaching the motor to the lower body.
 
 Once again, one of our biggest mistakes—and another example of how we failed to think ahead—was attaching the square lid onto the prism too early. Considering the next step involved drilling and screwing the motor in place, our lives would have been so much easier if we had just waited to attach the lid until after all the drilling was done. Unfortunately, by the time we realized this, it was too late—the lid had been glued on so thickly that we couldn’t cut or tear it off without damaging the entire structure.
-<img width="370" alt="Screenshot 2025-12-12 at 4 37 21 PM" src="https://github.com/user-attachments/assets/3bb3d672-ec07-4515-9b46-a993028c7a31" />
 
 
 ## Thursday 9th October 2025
@@ -38,11 +39,14 @@ Once again, one of our biggest mistakes—and another example of how we failed t
 Today’s work was by far the most difficult and exhausting—probably because we were trying to figure everything out ourselves instead of asking the professor for help. A lot of things didn’t go as planned. We needed to attach the lower body to the moving wheel base, but since the lower body was slightly larger than the wheel base, we cut two 50cm wooden rods—just a bit longer than the base—to act as supports. The main problem was that we weren’t confident using the drill. We were used to drilling holes for nuts and bolts, but not for screws, and we were too nervous to follow through with it. It also ended up being really time-consuming, so we decided to move on to the motor instead, especially since we were even less confident about that part and needed the professor’s supervision. Attaching the lower body to the wheel base will continue after fall break, before class.
 
 ### Installing the Motor: Part02 - COMPLETE
+<img width="428" height="730" alt="Screenshot 2025-12-12 at 4 41 40 PM" src="https://github.com/user-attachments/assets/92c924bb-240a-4b23-a7e4-5b064bc32b60" />
+<img width="428" height="749" alt="Screenshot 2025-12-12 at 4 41 51 PM" src="https://github.com/user-attachments/assets/627b79fa-b170-45ae-b7fb-9f464fd43596" />
+<img width="428" height="730" alt="Screenshot 2025-12-12 at 4 42 01 PM" src="https://github.com/user-attachments/assets/b790dd54-6e5f-4e88-872b-f39a9835c771" />
+<img width="428" height="721" alt="Screenshot 2025-12-12 at 4 41 33 PM" src="https://github.com/user-attachments/assets/3e5dfccc-dec9-48b5-9569-6837c42788b4" />
+
 Attaching the actual motor to the board was an absolute nightmare—honestly, a massive pain in ways I can’t even fully express. We spent so long on this part, and after so many slip-ups, we were slowly losing it. Drilling the large hole for the motor’s central rod was the easy part. The real struggle was drilling the two smaller holes that needed to line up perfectly with the bolt holes on the motor. And of course, because we didn’t ask the professor for help, we ended up making our lives unbelievably difficult. To mark where to drill, we colored the backs of the motor’s bolt holes and pressed them against the wood like a stamp. It didn’t work perfectly, but it gave us a rough guide. Since it was the first hole, a little imprecision was manageable.
 
 Once we drilled it, we tried to screw the bolt through the wooden panel and into the motor—but because the hole was exactly the same size as the bolt, it was ridiculously hard to fit it through. To make matters worse, we had already glued on the square lid, which meant we had to climb inside the lower body to line up the bolts. It was cramped, dark, and stuffy—basically impossible to see what we were doing. To double-check if everything aligned, we had to fit the motor inside the lower body and screw from the outside, repeating this over and over. The second bolt hole was even worse, since it had to be drilled with much more precision and left no room for error. This entire ordeal took up the rest of the class time. Ironically, we later realized that instead of struggling to drill perfect placements for the holes, we could’ve just drilled slightly larger holes to make screwing easier, then used nuts and washers to secure the motor in place.
-
-
 
 
 ## Tuesday 9th December 2025 (D-DAY!!!)
