@@ -57,14 +57,18 @@ Once we drilled it, we tried to screw the bolt through the wooden panel and into
 
 
 
-
+## Sunday 2nd November 2025
+Communication between Reciever and Transmitter Successful!!!
 
 
 ## Tuesday 11th November 2025
 
 <img height="370" alt="Screenshot 2025-12-12 at 10 37 30 PM" src="https://github.com/user-attachments/assets/8ffba419-12db-49f6-bd37-3ff974aec1a5" />
+<img height="370" alt="Screenshot 2025-12-12 at 11 02 32 PM" src="https://github.com/user-attachments/assets/a2ff5a00-8d11-478d-a030-f6561b1f8137" />
 
-We were finally able to fix our waist motors. The problem turned out to be quite straightforward: we had accidentally connected the wires to the pins backwards. Once we corrected the connections and plugged them in properly, the motor began rotating as expected. Next, we moved on to fixing the receiver-transmitter code, specifically the sections pertaining to the waist motor. The main changes involved renaming variables to correspond correctly to the waist motor, setting the default angle, and adjusting the angles for left and right rotation. Once these adjustments were complete, we shifted our focus to figuring out how to attach the elbow motors.
+In the previous days, we had a really hard time getting our motor to work. We weren’t sure whether the issue was due to a mistake in the physical wiring or a problem with the code. We tried troubleshooting multiple times with ChatGPT, but in the end, we were unable to solve it. 
+
+However, today we were finally able to uncover the issue. The problem turned out to be quite straightforward: we had accidentally connected the wires to the pins backwards. Once we corrected the connections and plugged them in properly, the motor began rotating as expected. Next, we moved on to fixing the receiver-transmitter code, specifically the sections pertaining to the waist motor. The main changes involved renaming variables to correspond correctly to the waist motor, setting the default angle, and adjusting the angles for left and right rotation. Once these adjustments were complete, we shifted our focus to figuring out how to attach the elbow motors.
 
 <img height="370" alt="Screenshot 2025-12-12 at 10 37 36 PM" src="https://github.com/user-attachments/assets/9557c5a1-b4f1-48e9-bc86-f5dde7ef15b3" />
 <img height="370" alt="Screenshot 2025-12-12 at 10 37 49 PM" src="https://github.com/user-attachments/assets/8796522a-55b1-4b50-bf94-4cab95172146" />
