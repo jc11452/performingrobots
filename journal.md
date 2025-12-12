@@ -1,6 +1,6 @@
 ## Wednesday 1st October 2025
 ### Character Design: The Best-Friend
-![WhatsApp Image 2025-10-01 at 22 47 45 (1)](https://github.com/user-attachments/assets/40d1d0fc-be13-4b49-ac0a-4166550f71a4)
+<img width="297" src="![WhatsApp Image 2025-10-01 at 22 47 45 (1)](https://github.com/user-attachments/assets/40d1d0fc-be13-4b49-ac0a-4166550f71a4)">
 
 For the character design, we envisioned a stereotypical Malibu girl with an extravagant and exaggerated sense of style—everything from her body shape to her nails and eyelashes is over the top. While the design may evolve as we continue developing it, our current concept features a pronounced hourglass figure with wide hips, a small waist, long legs, and a small face. We were torn between making her really creative, drawing inspiration from RuPaul’s Drag Race fashion, or keeping her design simple and stereotypical to match her personality. In the end, we chose the latter. For proportions, we decided on legs measuring 85cm, a bust of 30cm, and a neck and head totaling 35cm, all within an overall height of 150cm.
 
