@@ -47,19 +47,57 @@ Attaching the actual motor to the board was an absolute nightmare—honestly, a 
 
 Once we drilled it, we tried to screw the bolt through the wooden panel and into the motor—but because the hole was exactly the same size as the bolt, it was ridiculously hard to fit it through. To make matters worse, we had already glued on the square lid, which meant we had to climb inside the lower body to line up the bolts. It was cramped, dark, and stuffy—basically impossible to see what we were doing. To double-check if everything aligned, we had to fit the motor inside the lower body and screw from the outside, repeating this over and over. The second bolt hole was even worse, since it had to be drilled with much more precision and left no room for error. This entire ordeal took up the rest of the class time. Ironically, we later realized that instead of struggling to drill perfect placements for the holes, we could’ve just drilled slightly larger holes to make screwing easier, then used nuts and washers to secure the motor in place.
 
+## Monday 20th October 2025
+### Midterm Progress 01
 
+**Goals to Accomplish for Midterms:**
+- attach the lower body to the wheel base.
+- attach the lazy suzan and giant servo motor.
+- build the upper body.
+- control the upper body (attached to giant servo motor) with Arduino. 
 
+<img wheight="370" alt="Screenshot 2025-12-12 at 11 16 31 PM" src="https://github.com/user-attachments/assets/68e5dc28-4335-4295-93c2-3fbe7da7fa18" />
+<img height="370" alt="Screenshot 2025-12-12 at 11 16 23 PM" src="https://github.com/user-attachments/assets/992e30e5-0f1e-4def-a719-921cf77af56f" />
+<img height="370" alt="Screenshot 2025-12-12 at 11 16 10 PM" src="https://github.com/user-attachments/assets/aa48f1c7-309b-469f-a8b6-b27c004e6eb1" />
+<img height="370" alt="Screenshot 2025-12-12 at 11 16 02 PM" src="https://github.com/user-attachments/assets/e116933a-85b8-422f-9fd4-8d2e3c2e14df" />
 
+We began by constructing the upper body using cardboard. To be clear, we quickly sketched a diagram on the board to reassess the proportions of the upper and lower body, as well as the head and neck, as the lower body measurements went over what we had decided. Next, we measured and cut out the pieces for the torso’s sides—a total of 8 panels. 4 of these measured 33 cm wide by 30 cm tall for the bust area, while the remaining 4 were 33 cm wide by 10 cm tall for the waist. We joined the larger bust panels, then attached the smaller waist panels, completing the upper torso. After, we added multiple triangular supports in between for extra reinforcement.
 
+## 21st-22nd October 2025
+### Midterm Progress 02
 
+**Goals to Accomplish for Midterms:**
+- attach the lower body to the wheel base.
+- attach the lazy suzan and giant servo motor.
+- ~~build the upper body.~~
+- control the upper body (attached to giant servo motor) with Arduino.
 
+<img height="370" alt="Screenshot 2025-12-12 at 11 31 28 PM" src="https://github.com/user-attachments/assets/3ada9982-6748-4fc9-9adb-548031fb1d0c" />
+<img height="370" alt="Screenshot 2025-12-12 at 11 31 20 PM" src="https://github.com/user-attachments/assets/3a2a7d30-a153-4eca-b302-79c8bc3e129c" />
+<img height="370" alt="Screenshot 2025-12-12 at 11 31 02 PM" src="https://github.com/user-attachments/assets/912e165b-a0d4-497d-bf00-256ef1312efe" />
+<img height="370" alt="Screenshot 2025-12-12 at 11 30 52 PM" src="https://github.com/user-attachments/assets/21700091-ec6e-43c0-a75a-acd871711a4d" />
+<img height="370" alt="Screenshot 2025-12-12 at 11 30 44 PM" src="https://github.com/user-attachments/assets/f44bdc91-45ea-4f18-ad8d-b439098a4c4a" />
 
+We then moved on to stabilizing the bottom portion of the body onto the wheel base. To do this, we cut long pieces of wood to support the weight of the base, along with additional square wooden boards for the waist motor. Next, we drilled holes through both the wooden boards and the base, and secured them together with nuts and bolts after measuring the approximate positions for the boards on the base.
+
+Since we needed to mount the bottom half to the wheel base while still having a hole to access the waist motor and batteries, we cut a large opening in the back of the lower torso. We then noticed that the robot torso was beginning to tilt forward due to its weight. To address this, we temporarily placed some pieces of cardboard between the torso and the wooden planks on the base. It wasn’t a very solid fix, but it somewhat worked. Looking back, I think the tilt only seemed corrected because we were observing from above rather than from below. We also should have anticipated that the tilt would worsen once the upper torso, arms, and head were added. Afterward, we decided to attach L-brackets to all 4 sides of the bottom portion of the body to secure it to the 2 long wooden strips on the wheel base. Attaching the inner L-brackets was particularly difficult because I had to work through the small opening in the lower torso. Both drilling and screwing inside the confined space proved to be quite challenging.
+
+**Goals to Accomplish for Midterms:**
+- ~~attach the lower body to the wheel base.~~
+- attach the lazy suzan and giant servo motor.
+- ~~build the upper body.~~
+- control the upper body (attached to giant servo motor) with Arduino.
+
+<img height="370" alt="Screenshot 2025-12-12 at 11 32 14 PM" src="https://github.com/user-attachments/assets/9a5fdc14-9d05-4228-924a-5c10cebb9d59" />
+<img height="370" alt="Screenshot 2025-12-12 at 11 32 00 PM" src="https://github.com/user-attachments/assets/71e32d7c-263f-44db-887b-e142b3e6ed65" />
+<img height="370" alt="Screenshot 2025-12-12 at 11 31 50 PM" src="https://github.com/user-attachments/assets/08276cc6-e621-47c2-bea9-8b0ef0a60fd0" />
+
+Now that the base was finished, we moved on to attaching the lazy Suzan (which, in the end, ended up being unnecessary.) We also made a lid for the upper torso and glued two wooden squares on either side to prepare for attaching the giant servo motor. Attaching the lazy Suzan itself was straightforward, but installing the giant servo motor was a major challenge. First, we had to ensure that the holes aligned perfectly, then push the bolt through while simultaneously screwing from the inside. There were countless trials and errors, and this step alone took hours. It was arguably the most tedious process we had encountered so far. Despite the challenges, we were able to end the day on a high note, having made significant progress.
 
 
 
 ## Sunday 2nd November 2025
 Communication between Reciever and Transmitter Successful!!!
-
 
 ## Tuesday 11th November 2025
 
