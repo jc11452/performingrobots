@@ -50,6 +50,9 @@ Once we drilled it, we tried to screw the bolt through the wooden panel and into
 
 
 
+## Saturday 22nd November 2025
+We noticed that when trying to drive, the motor was simply not working. It was definitely not a code issue, since it had been functioning fine previously. Upon checking the wiring, we found that the soldering on one motor wire had come loose, so we had to resolder it. We were also working on improving our case actions, including adding a 360° waist rotation. However, I accidentally placed the command for the 360° spin in the section of code that sets the motors’ default positions when the Arduino powers on. As a result, the robot spun unexpectedly while the arms were straight down, causing one arm to be ripped off and the wires to detach. The experience was so traumatic that we decided to remove this action entirely, recognizing that it was simply too dangerous and not worth the risk. This incident set our progress back significantly, and we ended up wasting most of the day, feeling very disheartened.
+
 ## Tuesday 25th November 2025
 <img height="370" alt="Screenshot 2025-12-12 at 8 45 54 PM" src="https://github.com/user-attachments/assets/62f126c9-2e70-4841-942b-3214f5861925" />
 <img height="370" alt="Screenshot 2025-12-12 at 8 45 41 PM" src="https://github.com/user-attachments/assets/7f8d99cb-eaca-4185-8c61-ef9029268b26" />
