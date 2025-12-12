@@ -77,11 +77,11 @@ First, we attempted to run the nRF transmitter using the new Arduino Uno we rece
 
 <img height="370" alt="Screenshot 2025-12-12 at 10 25 18 PM" src="https://github.com/user-attachments/assets/6bb607da-1071-4e86-863a-0fbfaf1ad6d9" />
 
-UPDATE: We eventually discovered that the issue was the Arduino Uno itself. After switching it out, the nRF transmitter finally displayed text on the screen. However, it still produced errors when attempting to transmit.
+**UPDATE:** We eventually discovered that the issue was the Arduino Uno itself. After switching it out, the nRF transmitter finally displayed text on the screen. However, it still produced errors when attempting to transmit.
 UPDATE TO THE SECOND ISSUE: It turned out that we had accidentally uploaded the transmitter code to the receiver and the receiver code to the transmitter. Although we were initially suspicious of the physical components e.g., music chip and Music Maker shield, since similar issues had happened before, it thankfully started working once we uploaded the correct code to the corresponding transmitter and receiver.
 
 We then moved on to the next step: playing audio through speakers connected to the Music Maker shield. We first created some AI-generated voice lines using ElevenLabs, downloaded the audio files, and wrote the code needed to play them. After running the program, however, no sound was produced. At this point, our batteries had died again, so we decided to at least fix the script so we could run through the dialogues during class the next day. We updated Scene 2 and Scene 4 (texting scene between wife and husband, by best friend and judge), which are the scenes where our character: the best friend, appears.
-UPDATE: The audio issue turned out to be a simple mistake, we had plugged the speaker into the headphone jack instead of the actual speaker output.
+**UPDATE:** The audio issue turned out to be a simple mistake, we had plugged the speaker into the headphone jack instead of the actual speaker output.
 
 ## Friday 14th November 2025
 
