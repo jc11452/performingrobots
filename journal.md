@@ -24,9 +24,14 @@ Finally, once everything was assembled, we were still obsessed with reinforcing 
 
 ## Tuesday 7th October 2025
 ### Installing the Motor: Part01 - TBC
+<img width="600" alt="Screenshot 2025-12-12 at 4 37 06 PM" src="https://github.com/user-attachments/assets/57582ab2-725b-471c-8b8b-9ad30c1cc92a" />
+<img width="600" alt="Screenshot 2025-12-12 at 4 37 14 PM" src="https://github.com/user-attachments/assets/eb5845fb-805c-44e1-9fee-d72085432e61" />
+
 We needed to install a motor at the waist because one of the character’s mannerisms would be a sassy twisting motion—almost like tossing her hair back. However, we also had to consider that this motor would need to support the entire upper body, including the arms and headpiece, which would be quite heavy once reinforced. This meant we had to use a larger, more powerful motor. We couldn’t simply attach the motor directly to the flat square lid of the prism, as that would be unreliable and could compromise the structure’s integrity. To solve this, we cut two flat wooden panels slightly smaller than the square lid. One panel was glued inside the base body, and the other was glued on top of the lid’s outer surface, creating a sturdy foundation for attaching the motor to the lower body.
 
 Once again, one of our biggest mistakes—and another example of how we failed to think ahead—was attaching the square lid onto the prism too early. Considering the next step involved drilling and screwing the motor in place, our lives would have been so much easier if we had just waited to attach the lid until after all the drilling was done. Unfortunately, by the time we realized this, it was too late—the lid had been glued on so thickly that we couldn’t cut or tear it off without damaging the entire structure.
+<img width="370" alt="Screenshot 2025-12-12 at 4 37 21 PM" src="https://github.com/user-attachments/assets/3bb3d672-ec07-4515-9b46-a993028c7a31" />
+
 
 ## Thursday 9th October 2025
 ### Connecting the Lower Body to the Wheel Base: Part01 - TBC
@@ -41,11 +46,11 @@ Once we drilled it, we tried to screw the bolt through the wooden panel and into
 
 
 ## Tuesday 9th December 2025 (D-DAY!!!)
-<img width="336" height="187" alt="Screenshot 2025-12-12 at 4 24 29 PM" src="https://github.com/user-attachments/assets/dd16d9ed-a64e-4d05-83da-5eab8026f7ee" />
+<img width="370" alt="Screenshot 2025-12-12 at 4 24 29 PM" src="https://github.com/user-attachments/assets/dd16d9ed-a64e-4d05-83da-5eab8026f7ee" />
 
 It was the most hectic, nerve-racking day of any performing-robot class, not because it was the final performance, but because so many things went wrong while we were racing against time to fix everything. It felt especially chaotic because Clara and I knew we tended to have bad luck, so we double, triple-checked our work the night before. Still, during rehearsal, with only 4 hours before the performance, the robot’s arm fell off despite having been screwed on. Clara and I scrambled to reattach the arm with a glue gun, cardboard, and scissors. We hot-glued the top of the entire arm to the shoulder base and added a stack of cardboard triangles for extra support, hoping it would hold up just long enough for the performance. Once that problem was fixed, we had to reconnect the wires to their corresponding motors. Since we had zip-tied all the wires together, we ended up connecting them at random and using the cases to test which motors were working, and fortunately that plan worked well enough.
 
-<img width="332" height="594" alt="Screenshot 2025-12-12 at 4 24 23 PM" src="https://github.com/user-attachments/assets/433b2a13-28b0-4c0b-b137-fb48e5d3cbd1" />
+<img width="370" alt="Screenshot 2025-12-12 at 4 24 23 PM" src="https://github.com/user-attachments/assets/433b2a13-28b0-4c0b-b137-fb48e5d3cbd1" />
 
 Once we ran through all the cases and were certain everything was working, including the soldered eyebrows, we turned off the battery for the Arduinos. We were paranoid that the battery might somehow shut off on its own, and we wanted to focus entirely on the motor, since we knew it was our biggest problem. The motor struggled to move forward smoothly and would often jolt when stopping, which threw off the robot’s balance. Because of this, we decided to have it move backward instead, since it performed much better that way, although we still needed more practice.
 
@@ -53,5 +58,5 @@ Out of anxiety, we tested the cases again, but this time the robot kept replayin
 
 During the actual performance, I think it went better than any of our previous rehearsals, which was a huge relief. There were still moments when I was literally on the edge of my seat, fearing the robot would tip over, especially when we tried to move closer to the microphones on stage because our speaker was taped to the back. It was almost comical how unpredictable the robot was. For example, during rehearsal the eyebrows malfunctioned, and then during the final checks before the performance they suddenly started working again. In the first case that was supposed to trigger both eyebrows, one of them went out, leaving the robot with a single glowing eyebrow that refused to turn off. It was frustrating and honestly jaw-dropping how every time we carefully checked for issues before an important rehearsal or showing, something new would decide to stop working. Regardless, it was definitely an unforgettable class. Considering my skills at the start of the course compared to now, I never would have believed I could help build a functioning robot. The process was tedious and often frustrating, but there were also genuine moments of happiness each time we managed to get something to work. It was truly a memorable and worthwhile class, and I am glad our robot managed to pull through to the end.
 
-<img width="297" height="511" alt="Screenshot 2025-12-12 at 4 24 15 PM" src="https://github.com/user-attachments/assets/7bc8845d-a7f1-4780-8944-d784b5ab11d5" />
+<img width="370" alt="Screenshot 2025-12-12 at 4 24 15 PM" src="https://github.com/user-attachments/assets/7bc8845d-a7f1-4780-8944-d784b5ab11d5" />
 
