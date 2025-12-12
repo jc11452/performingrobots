@@ -79,8 +79,6 @@ We noticed that when trying to drive, the motor was simply not working. It was d
 
 ## Tuesday 25th November 2025
 
-<img height="370" alt="Screenshot 2025-1<img width="250" height="446" alt="Screenshot 2025-12-12 at 9 25 41 PM" src="https://github.com/user-attachments/assets/5eb7da9d-a528-45ad-b78b-750e969ff2ab" />
-2-12 at 8 45 54 PM" src="https://github.com/user-attachments/assets/62f126c9-2e70-4841-942b-3214f5861925" />
 <img height="370" alt="Screenshot 2025-12-12 at 8 45 41 PM" src="https://github.com/user-attachments/assets/7f8d99cb-eaca-4185-8c61-ef9029268b26" />
 <img height="370" alt="Screenshot 2025-12-12 at 8 45 33 PM" src="https://github.com/user-attachments/assets/548aa21e-18b0-4824-962c-aa6cec8b71a0" />
 
