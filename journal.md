@@ -54,11 +54,20 @@ Once we drilled it, we tried to screw the bolt through the wooden panel and into
 
 
 
+## Saturday 15th November 2025
 
+<img height="370" alt="Screenshot 2025-12-12 at 9 26 09 PM" src="https://github.com/user-attachments/assets/f0f940dd-04ae-482b-91a5-b98f547c2bc3" />
+<img height="370" alt="Screenshot 2025-12-12 at 9 26 02 PM" src="https://github.com/user-attachments/assets/c9742dd8-5f77-41a5-be3d-0406a2e2572a" />
+<img height="370" alt="Screenshot 2025-12-12 at 9 25 55 PM" src="https://github.com/user-attachments/assets/78aaa1af-455d-4b2b-8635-5c923a09a8ba" />
+<img height="370" alt="Screenshot 2025-12-12 at 9 25 48 PM" src="https://github.com/user-attachments/assets/6d03c133-c237-4f82-9f03-134475da582f" />
+<img height="370" alt="Screenshot 2025-12-12 at 9 25 41 PM" src="https://github.com/user-attachments/assets/3481a61c-7dfc-4caa-ac61-7ef0d4798fa6" />
+<img height="370" alt="Screenshot 2025-12-12 at 9 25 30 PM" src="https://github.com/user-attachments/assets/30414769-aad9-4d54-be59-7fc705a17fc4" />
+<img height="370" alt="Screenshot 2025-12-12 at 9 25 24 PM" src="https://github.com/user-attachments/assets/24659a92-d0e8-4608-a925-137f14dc370d" />
 
 
 
 ## Tuesday 18th November 2025
+
 <img height="370" alt="Screenshot 2025-12-12 at 9 13 55 PM" src="https://github.com/user-attachments/assets/ed45e015-4db5-464d-8789-335c2cfeb9d7" />
 <img height="370" alt="Screenshot 2025-12-12 at 9 13 49 PM" src="https://github.com/user-attachments/assets/ca31d676-8b77-422c-a01f-807e49352eb7" />
 <img height="370" alt="Screenshot 2025-12-12 at 9 13 42 PM" src="https://github.com/user-attachments/assets/df023c47-de8f-40a0-b8bd-a15429d7ac26" />
@@ -69,7 +78,9 @@ Now that we had finished the arms, we wanted to move on to constructing the comp
 We noticed that when trying to drive, the motor was simply not working. It was definitely not a code issue, since it had been functioning fine previously. Upon checking the wiring, we found that the soldering on one motor wire had come loose, so we had to resolder it. We were also working on improving our case actions, including adding a 360° waist rotation. However, I accidentally placed the command for the 360° spin in the section of code that sets the motors’ default positions when the Arduino powers on. As a result, the robot spun unexpectedly while the arms were straight down, causing one arm to be ripped off and the wires to detach. The experience was so traumatic that we decided to remove this action entirely, recognizing that it was simply too dangerous and not worth the risk. This incident set our progress back significantly, and we ended up wasting most of the day, feeling very disheartened.
 
 ## Tuesday 25th November 2025
-<img height="370" alt="Screenshot 2025-12-12 at 8 45 54 PM" src="https://github.com/user-attachments/assets/62f126c9-2e70-4841-942b-3214f5861925" />
+
+<img height="370" alt="Screenshot 2025-1<img width="250" height="446" alt="Screenshot 2025-12-12 at 9 25 41 PM" src="https://github.com/user-attachments/assets/5eb7da9d-a528-45ad-b78b-750e969ff2ab" />
+2-12 at 8 45 54 PM" src="https://github.com/user-attachments/assets/62f126c9-2e70-4841-942b-3214f5861925" />
 <img height="370" alt="Screenshot 2025-12-12 at 8 45 41 PM" src="https://github.com/user-attachments/assets/7f8d99cb-eaca-4185-8c61-ef9029268b26" />
 <img height="370" alt="Screenshot 2025-12-12 at 8 45 33 PM" src="https://github.com/user-attachments/assets/548aa21e-18b0-4824-962c-aa6cec8b71a0" />
 
