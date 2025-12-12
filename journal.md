@@ -50,7 +50,7 @@ Once we drilled it, we tried to screw the bolt through the wooden panel and into
 ## Monday 20th October 2025
 ### Midterm Progress 01
 
-**Goals to Accomplish for Midterms:**
+**Goals to Accomplish for Midterm:**
 - attach the lower body to the wheel base.
 - attach the lazy suzan and giant servo motor.
 - build the upper body.
@@ -66,7 +66,7 @@ We began by constructing the upper body using cardboard. To be clear, we quickly
 ## 21st-22nd October 2025
 ### Midterm Progress 02
 
-**Goals to Accomplish for Midterms:**
+**Goals to Accomplish for Midterm:**
 - attach the lower body to the wheel base.
 - attach the lazy suzan and giant servo motor.
 - ~~build the upper body.~~
@@ -82,7 +82,7 @@ We then moved on to stabilizing the bottom portion of the body onto the wheel ba
 
 Since we needed to mount the bottom half to the wheel base while still having a hole to access the waist motor and batteries, we cut a large opening in the back of the lower torso. We then noticed that the robot torso was beginning to tilt forward due to its weight. To address this, we temporarily placed some pieces of cardboard between the torso and the wooden planks on the base. It wasn’t a very solid fix, but it somewhat worked. Looking back, I think the tilt only seemed corrected because we were observing from above rather than from below. We also should have anticipated that the tilt would worsen once the upper torso, arms, and head were added. Afterward, we decided to attach L-brackets to all 4 sides of the bottom portion of the body to secure it to the 2 long wooden strips on the wheel base. Attaching the inner L-brackets was particularly difficult because I had to work through the small opening in the lower torso. Both drilling and screwing inside the confined space proved to be quite challenging.
 
-**Goals to Accomplish for Midterms:**
+**Goals to Accomplish for Midterm:**
 - ~~attach the lower body to the wheel base.~~
 - attach the lazy suzan and giant servo motor.
 - ~~build the upper body.~~
@@ -92,7 +92,26 @@ Since we needed to mount the bottom half to the wheel base while still having a 
 <img height="370" alt="Screenshot 2025-12-12 at 11 32 00 PM" src="https://github.com/user-attachments/assets/71e32d7c-263f-44db-887b-e142b3e6ed65" />
 <img height="370" alt="Screenshot 2025-12-12 at 11 31 50 PM" src="https://github.com/user-attachments/assets/08276cc6-e621-47c2-bea9-8b0ef0a60fd0" />
 
-Now that the base was finished, we moved on to attaching the lazy Suzan (which, in the end, ended up being unnecessary.) We also made a lid for the upper torso and glued two wooden squares on either side to prepare for attaching the giant servo motor. Attaching the lazy Suzan itself was straightforward, but installing the giant servo motor was a major challenge. First, we had to ensure that the holes aligned perfectly, then push the bolt through while simultaneously screwing from the inside. There were countless trials and errors, and this step alone took hours. It was arguably the most tedious process we had encountered so far. Despite the challenges, we were able to end the day on a high note, having made significant progress.
+Now that the base was finished, we moved on to attaching the lazy Suzan (which, in the end, ended up being unnecessary.) We also made a lid for the upper torso and glued two wooden squares on either side to prepare for attaching the giant servo motor. Attaching the lazy Suzan itself was relatively straightforward albeit somewhat gruelling. 
+
+## Thursday 23rd October 2025
+
+**Goals to Accomplish for Midterm:**
+- ~~attach the lower body to the wheel base.~~
+- ~~attach the lazy suzan and giant servo motor.~~
+- ~~build the upper body.~~
+- control the upper body (attached to giant servo motor) with Arduino.
+
+<img height="370" alt="Screenshot 2025-12-13 at 12 36 57 AM" src="https://github.com/user-attachments/assets/7d3d09eb-df73-47b2-a821-9e0519be021b" />
+<img height="370" alt="Screenshot 2025-12-13 at 12 36 45 AM" src="https://github.com/user-attachments/assets/d2f35dd7-1d03-4c48-b2f6-ef3937692614" />
+<img height="370" alt="Screenshot 2025-12-13 at 12 36 38 AM" src="https://github.com/user-attachments/assets/b3f90cfc-9e6a-4c2b-8823-0da8d96e8bb2" />
+<img height="370" alt="Screenshot 2025-12-13 at 12 36 25 AM" src="https://github.com/user-attachments/assets/6c63c465-9242-4cee-a1ce-58e7d6fed38d" />
+
+To begin, we had to remove the motor from the top lid of the bottom torso to do the wiring, which unfortunately required crawling inside the robot again. We then connected 2 wires from the motor’s -/+ terminals to the corresponding positive and negative terminals of the 12V battery. Additionally, we connected 2 more wires to the GND and pin 7 on the board. After completing these connections and testing to ensure the code functioned correctly, we replaced the jumper wires with standard wires and switched the board to an Arduino Mega (provided by the professor).
+
+
+
+
 
 
 
