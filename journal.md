@@ -56,7 +56,7 @@ Once we drilled it, we tried to screw the bolt through the wooden panel and into
 - build the upper body.
 - control the upper body (attached to giant servo motor) with Arduino. 
 
-<img wheight="370" alt="Screenshot 2025-12-12 at 11 16 31 PM" src="https://github.com/user-attachments/assets/68e5dc28-4335-4295-93c2-3fbe7da7fa18" />
+<img height="370" alt="Screenshot 2025-12-12 at 11 16 31 PM" src="https://github.com/user-attachments/assets/68e5dc28-4335-4295-93c2-3fbe7da7fa18" />
 <img height="370" alt="Screenshot 2025-12-12 at 11 16 23 PM" src="https://github.com/user-attachments/assets/992e30e5-0f1e-4def-a719-921cf77af56f" />
 <img height="370" alt="Screenshot 2025-12-12 at 11 16 10 PM" src="https://github.com/user-attachments/assets/aa48f1c7-309b-469f-a8b6-b27c004e6eb1" />
 <img height="370" alt="Screenshot 2025-12-12 at 11 16 02 PM" src="https://github.com/user-attachments/assets/e116933a-85b8-422f-9fd4-8d2e3c2e14df" />
