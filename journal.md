@@ -74,6 +74,7 @@ The first step was cutting out the wooden boards that would form the base of the
 
 ## Wednesday 12th November 2025
 First, we attempted to run the nRF transmitter using the new Arduino Uno we received from the professor, but it still didn’t work, the screen displayed the same issue as yesterday, showing blocks instead of readable letters or numbers:
+
 <img height="370" alt="Screenshot 2025-12-12 at 10 25 18 PM" src="https://github.com/user-attachments/assets/6bb607da-1071-4e86-863a-0fbfaf1ad6d9" />
 
 UPDATE: We eventually discovered that the issue was the Arduino Uno itself. After switching it out, the nRF transmitter finally displayed text on the screen. However, it still produced errors when attempting to transmit.
