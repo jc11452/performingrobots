@@ -1,16 +1,16 @@
 ## Wednesday 1st October 2025
 ### Character Design: The Best-Friend
-<img width="370" alt="Screenshot 2025-12-12 at 4 31 09 PM" src="https://github.com/user-attachments/assets/c8dff471-0025-4ce1-9189-5806a0bbff39" />
+<img height="370" alt="Screenshot 2025-12-12 at 4 31 09 PM" src="https://github.com/user-attachments/assets/c8dff471-0025-4ce1-9189-5806a0bbff39" />
 
 For the character design, we envisioned a stereotypical Malibu girl with an extravagant and exaggerated sense of style—everything from her body shape to her nails and eyelashes is over the top. While the design may evolve as we continue developing it, our current concept features a pronounced hourglass figure with wide hips, a small waist, long legs, and a small face. We were torn between making her really creative, drawing inspiration from RuPaul’s Drag Race fashion, or keeping her design simple and stereotypical to match her personality. In the end, we chose the latter. For proportions, we decided on legs measuring 85cm, a bust of 30cm, and a neck and head totaling 35cm, all within an overall height of 150cm.
 
 ### Building the Base: Part01 - TBC
 The base structure is essentially a cube that tapers into a prism-like shape. To be honest, we didn’t really think ahead—we treated this assignment as separate from the next step, which definitely made things harder for ourselves moving forward. We started by finding cardboard boxes and cutting along the edges to create two wider rectangles for the front and back pieces, and two thinner rectangles for the sides of the cube. Each cardboard rectangle took a lot of time to reinforce. We cut smaller, thinner rectangular strips and layered them so that the corrugation ran perpendicular to the cardboard underneath. We then overlaid all the pieces, paying extra attention to the folded areas of the base rectangles. Overall, we were incredibly successful in creating very solid and robust base cubes.
 
-<img width="370" alt="Screenshot 2025-12-12 at 4 31 23 PM" src="https://github.com/user-attachments/assets/4221c14b-c292-4587-8580-2aa5abd6d2dc" />
-<img width="370" alt="Screenshot 2025-12-12 at 4 31 31 PM" src="https://github.com/user-attachments/assets/1f2e3139-cdea-492d-ab31-7a5a5033b14d" />
-<img width="370" alt="Screenshot 2025-12-12 at 4 31 38 PM" src="https://github.com/user-attachments/assets/f0daa346-7d2f-4578-81b1-520b8bf94a08" />
-<img width="370" alt="Screenshot 2025-12-12 at 4 31 47 PM" src="https://github.com/user-attachments/assets/52653cb8-db32-43c6-a9c3-6be4734a6d36" />
+<img height="370" alt="Screenshot 2025-12-12 at 4 31 23 PM" src="https://github.com/user-attachments/assets/4221c14b-c292-4587-8580-2aa5abd6d2dc" />
+<img height="370" alt="Screenshot 2025-12-12 at 4 31 31 PM" src="https://github.com/user-attachments/assets/1f2e3139-cdea-492d-ab31-7a5a5033b14d" />
+<img height="370" alt="Screenshot 2025-12-12 at 4 31 38 PM" src="https://github.com/user-attachments/assets/f0daa346-7d2f-4578-81b1-520b8bf94a08" />
+<img height="370" alt="Screenshot 2025-12-12 at 4 31 47 PM" src="https://github.com/user-attachments/assets/52653cb8-db32-43c6-a9c3-6be4734a6d36" />
 
 ## Thursday 2nd October 2025
 ### Building the Base: Part02 - COMPLETE
@@ -22,7 +22,7 @@ For the prism section, we were lucky to have plenty of scraps left over from the
 
 Finally, once everything was assembled, we were still obsessed with reinforcing the structure. We went inside the base, and from cutting the angled prism waist pieces, we luckily had plenty of leftover triangles. We used those to reinforce the cube first and then later the prism. Since the pieces weren’t cut exactly to size—because of the angled shape—we just pushed the triangles in until they slotted neatly into place and then glued everything down. With all the reinforcing and layering we had done, the base ended up being quite heavy.
 
-<img width="370" alt="Screenshot 2025-12-12 at 4 37 21 PM" src="https://github.com/user-attachments/assets/3bb3d672-ec07-4515-9b46-a993028c7a31" />
+<img height="370" alt="Screenshot 2025-12-12 at 4 37 21 PM" src="https://github.com/user-attachments/assets/3bb3d672-ec07-4515-9b46-a993028c7a31" />
 
 ## Tuesday 7th October 2025
 ### Installing the Motor: Part01 - TBC
@@ -39,10 +39,10 @@ Once again, one of our biggest mistakes—and another example of how we failed t
 Today’s work was by far the most difficult and exhausting—probably because we were trying to figure everything out ourselves instead of asking the professor for help. A lot of things didn’t go as planned. We needed to attach the lower body to the moving wheel base, but since the lower body was slightly larger than the wheel base, we cut two 50cm wooden rods—just a bit longer than the base—to act as supports. The main problem was that we weren’t confident using the drill. We were used to drilling holes for nuts and bolts, but not for screws, and we were too nervous to follow through with it. It also ended up being really time-consuming, so we decided to move on to the motor instead, especially since we were even less confident about that part and needed the professor’s supervision. Attaching the lower body to the wheel base will continue after fall break, before class.
 
 ### Installing the Motor: Part02 - COMPLETE
-<img width="370" alt="Screenshot 2025-12-12 at 4 41 40 PM" src="https://github.com/user-attachments/assets/92c924bb-240a-4b23-a7e4-5b064bc32b60" />
-<img width="370" alt="Screenshot 2025-12-12 at 4 41 51 PM" src="https://github.com/user-attachments/assets/627b79fa-b170-45ae-b7fb-9f464fd43596" />
-<img width="370" alt="Screenshot 2025-12-12 at 4 42 01 PM" src="https://github.com/user-attachments/assets/b790dd54-6e5f-4e88-872b-f39a9835c771" />
-<img width="370" alt="Screenshot 2025-12-12 at 4 41 33 PM" src="https://github.com/user-attachments/assets/3e5dfccc-dec9-48b5-9569-6837c42788b4" />
+<img height="370" alt="Screenshot 2025-12-12 at 4 41 40 PM" src="https://github.com/user-attachments/assets/92c924bb-240a-4b23-a7e4-5b064bc32b60" />
+<img height="370" alt="Screenshot 2025-12-12 at 4 41 51 PM" src="https://github.com/user-attachments/assets/627b79fa-b170-45ae-b7fb-9f464fd43596" />
+<img height="370" alt="Screenshot 2025-12-12 at 4 42 01 PM" src="https://github.com/user-attachments/assets/b790dd54-6e5f-4e88-872b-f39a9835c771" />
+<img height="370" alt="Screenshot 2025-12-12 at 4 41 33 PM" src="https://github.com/user-attachments/assets/3e5dfccc-dec9-48b5-9569-6837c42788b4" />
 
 Attaching the actual motor to the board was an absolute nightmare—honestly, a massive pain in ways I can’t even fully express. We spent so long on this part, and after so many slip-ups, we were slowly losing it. Drilling the large hole for the motor’s central rod was the easy part. The real struggle was drilling the two smaller holes that needed to line up perfectly with the bolt holes on the motor. And of course, because we didn’t ask the professor for help, we ended up making our lives unbelievably difficult. To mark where to drill, we colored the backs of the motor’s bolt holes and pressed them against the wood like a stamp. It didn’t work perfectly, but it gave us a rough guide. Since it was the first hole, a little imprecision was manageable.
 
@@ -58,9 +58,9 @@ Once we drilled it, we tried to screw the bolt through the wooden panel and into
 
 ## Monday 1st December 2025
 
-<img width="370" alt="Screenshot 2025-12-12 at 7 42 57 PM" src="https://github.com/user-attachments/assets/37e81b5e-2ebe-4b4d-b13a-3025d54c446c" />
-<img width="370" alt="Screenshot 2025-12-12 at 7 45 11 PM" src="https://github.com/user-attachments/assets/289800ab-7e77-45ab-92f3-676b0dcf38e3" />
-<img width="370" alt="Screenshot 2025-12-12 at 7 45 22 PM" src="https://github.com/user-attachments/assets/2eec1115-b189-4829-b2cd-cf56b70916e5" />
+<img height="370" alt="Screenshot 2025-12-12 at 7 42 57 PM" src="https://github.com/user-attachments/assets/37e81b5e-2ebe-4b4d-b13a-3025d54c446c" />
+<img height="370" alt="Screenshot 2025-12-12 at 7 45 11 PM" src="https://github.com/user-attachments/assets/289800ab-7e77-45ab-92f3-676b0dcf38e3" />
+<img height="370" alt="Screenshot 2025-12-12 at 7 45 22 PM" src="https://github.com/user-attachments/assets/2eec1115-b189-4829-b2cd-cf56b70916e5" />
 
 Today was finally the day we properly fixed the hand motor. We’d been struggling with the hand constantly falling off, and after getting help from the professor and his diagrams, we were determined to resolve the issue once and for all. We found the shortest 3 mm bolts available and began fixing the issue. I drilled a hole in the center of the horn attached to each wooden shaft. Because it was plastic on top of wood, drilling a straight line was difficult—the drill would often veer off at an angle. On the second wooden piece, I managed to get the bolt through the wood and screwed into the motor’s center with little resistance because that angle happened to be straighter. However, for the first motor, I realized the bolt was too short to actually reach the motor’s center, and using a longer bolt would have caused too much wobbling between the wood and the motor. 
 
@@ -68,20 +68,20 @@ The professor advised us to drill a full hole all the way through the wooden sha
 
 ## Tuesday 2nd December 2025
 
-<img width="370" alt="Screenshot 2025-12-12 at 7 09 53 PM" src="https://github.com/user-attachments/assets/93cc9164-349a-4607-b4f4-9ccf2b5aeb7b" />
-<img width="370" alt="Screenshot 2025-12-12 at 7 09 46 PM" src="https://github.com/user-attachments/assets/c621899a-a1dd-4321-9911-4645bfe441b1" />
-<img width="370" alt="Screenshot 2025-12-12 at 7 09 37 PM" src="https://github.com/user-attachments/assets/ef724ada-ee2c-43ea-b303-5d2d099b327a" />
+<img height="370" alt="Screenshot 2025-12-12 at 7 09 53 PM" src="https://github.com/user-attachments/assets/93cc9164-349a-4607-b4f4-9ccf2b5aeb7b" />
+<img height="370" alt="Screenshot 2025-12-12 at 7 09 46 PM" src="https://github.com/user-attachments/assets/c621899a-a1dd-4321-9911-4645bfe441b1" />
+<img height="370" alt="Screenshot 2025-12-12 at 7 09 37 PM" src="https://github.com/user-attachments/assets/ef724ada-ee2c-43ea-b303-5d2d099b327a" />
 
 We finished soldering the Neopixels today, which took a very long time and required a lot of redoing. Wires soldered during the previous session kept detaching, and because the spaces between the solder points were so small, reheating one connection often melted the solder on the adjacent wire. As a result, fixing one wire usually meant having to redo two or even three. After we cut out 4 rectangular openings for the eyebrows, 2 for default brows (the bottom row) and 2 for raised brows (the top row). After that, we inserted the Neopixels behind these openings. We were extremely anxious pushing the Neopixels through the holes because we were worried the wires might detach again, especially where the wires were pressed into the tight perpendicular edge of the cardboard. To prevent anything from shifting, we secured each Neopixel firmly in place with multiple vertical strips of tape.
 
 ## Wednesday 3rd December 2025
 
-<img width="370" alt="Screenshot 2025-12-12 at 7 10 03 PM" src="https://github.com/user-attachments/assets/f5e03446-908a-43ab-9238-767efafa25e7" />
+<img height="370" alt="Screenshot 2025-12-12 at 7 10 03 PM" src="https://github.com/user-attachments/assets/f5e03446-908a-43ab-9238-767efafa25e7" />
 
 Today's focus was on programming the Neopixels. There was a lot of trial and error involved. We started by using the default Neopixel test code from Arduino just to confirm that the LEDs were functioning. Once that worked, we began adjusting the code to make the eyebrows respond to specific cases. We also wanted to change the eyebrow colors, but during programming we realized that some Neopixels weren’t functioning, specifically the upper right eyebrow. This turned out to be a soldering issue rather than a coding issue; if we pressed the wires tightly in certain spots, the LEDs would temporarily light up before turning off again. Since at least some of the Neopixels were working, we decided to leave the faulty ones for another time.
 
-<img width="370" alt="Screenshot 2025-12-12 at 4 46 18 PM" src="https://github.com/user-attachments/assets/ca8667af-38aa-4fad-8940-e6f8f1d25b13" />
-<img width="370" alt="Screenshot 2025-12-12 at 7 10 27 PM" src="https://github.com/user-attachments/assets/1babb739-1ec9-4c9f-8064-9de887d46cdf" />
+<img height="370" alt="Screenshot 2025-12-12 at 4 46 18 PM" src="https://github.com/user-attachments/assets/ca8667af-38aa-4fad-8940-e6f8f1d25b13" />
+<img height="370" alt="Screenshot 2025-12-12 at 7 10 27 PM" src="https://github.com/user-attachments/assets/1babb739-1ec9-4c9f-8064-9de887d46cdf" />
 
 We also finished pinning the clothes today. Our goal was to complete all the visual elements of her design, so we brought in the silver dress. Because the robot is bulky and shaped in a way that normal clothing can’t fit her without cutting it apart, we chose not to dress her fully. Instead, we pinned the front of the dress directly to the front of the robot. Everything else we planned to paint silver to match. For the upper torso, we covered her shoulders with a blue shawl and added a fur shawl to cover her chest area. We placed a pearl necklace on top and pinned the wig in a way that allowed only the Neopixels to show. Her physical appearance really started coming together—she looked striking and had a dominating presence.
 
@@ -93,15 +93,15 @@ Today was our final rehearsal before D-Day. It started around 8 p.m., and overal
 
 So today was focused entirely on final repairs. Clara redid the typing sound effects and reuploaded them to both the receiver and the transmitter. We also discovered that the eyebrow soldering was still unstable, the wires were fraying and making contact with the other soldered point. We spent a long time on soldering, partly because (simply put) we aren't very good at soldering, but also because the LED placement made the angle extremely difficult. The ends of the LEDs were positioned very close to the perpendicular edge of the cardboard, so holding the wire in place without burning ourselves was a challenge. After the rehearsal, I stayed behind to figure out the transmitter issue. I suspected it was because of the wiring, and after rearranging everything, I tested all the cases to make sure it worked properly. When I brought the robot back to the lab to meet Clara, we decided to zip-tie the wires together to prevent them from becoming tangled again. Since we decided that the robot should move backward and then twist to face forward, we also continued painting the back of the robot silver.
 
-<img width="370" alt="Screenshot 2025-12-12 at 4 46 18 PM" src="https://github.com/user-attachments/assets/7f26c55f-d8b9-47f6-bef8-e35d67a54094" />
-<img width="370" alt="Screenshot 2025-12-12 at 5 21 14 PM" src="https://github.com/user-attachments/assets/bc1e1137-8116-4027-9f8f-a075162f5d07" />
+<img height="370" alt="Screenshot 2025-12-12 at 4 46 18 PM" src="https://github.com/user-attachments/assets/7f26c55f-d8b9-47f6-bef8-e35d67a54094" />
+<img height="370" alt="Screenshot 2025-12-12 at 5 21 14 PM" src="https://github.com/user-attachments/assets/bc1e1137-8116-4027-9f8f-a075162f5d07" />
 
 ## Tuesday 9th December 2025 (D-DAY!!!)
-<img width="370" alt="Screenshot 2025-12-12 at 4 24 29 PM" src="https://github.com/user-attachments/assets/dd16d9ed-a64e-4d05-83da-5eab8026f7ee" />
+<img height="370" alt="Screenshot 2025-12-12 at 4 24 29 PM" src="https://github.com/user-attachments/assets/dd16d9ed-a64e-4d05-83da-5eab8026f7ee" />
 
 It was the most hectic, nerve-racking day of any performing-robot class, not because it was the final performance, but because so many things went wrong while we were racing against time to fix everything. It felt especially chaotic because Clara and I knew we tended to have bad luck, so we double, triple-checked our work the night before. Still, during rehearsal, with only 4 hours before the performance, the robot’s arm fell off despite having been screwed on. Clara and I scrambled to reattach the arm with a glue gun, cardboard, and scissors. We hot-glued the top of the entire arm to the shoulder base and added a stack of cardboard triangles for extra support, hoping it would hold up just long enough for the performance. Once that problem was fixed, we had to reconnect the wires to their corresponding motors. Since we had zip-tied all the wires together, we ended up connecting them at random and using the cases to test which motors were working, and fortunately that plan worked well enough.
 
-<img width="370" alt="Screenshot 2025-12-12 at 4 24 23 PM" src="https://github.com/user-attachments/assets/433b2a13-28b0-4c0b-b137-fb48e5d3cbd1" />
+<img height="370" alt="Screenshot 2025-12-12 at 4 24 23 PM" src="https://github.com/user-attachments/assets/433b2a13-28b0-4c0b-b137-fb48e5d3cbd1" />
 
 Once we ran through all the cases and were certain everything was working, including the soldered eyebrows, we turned off the battery for the Arduinos. We were paranoid that the battery might somehow shut off on its own, and we wanted to focus entirely on the motor, since we knew it was our biggest problem. The motor struggled to move forward smoothly and would often jolt when stopping, which threw off the robot’s balance. Because of this, we decided to have it move backward instead, since it performed much better that way, although we still needed more practice.
 
