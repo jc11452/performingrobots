@@ -49,6 +49,20 @@ Attaching the actual motor to the board was an absolute nightmare—honestly, a 
 Once we drilled it, we tried to screw the bolt through the wooden panel and into the motor—but because the hole was exactly the same size as the bolt, it was ridiculously hard to fit it through. To make matters worse, we had already glued on the square lid, which meant we had to climb inside the lower body to line up the bolts. It was cramped, dark, and stuffy—basically impossible to see what we were doing. To double-check if everything aligned, we had to fit the motor inside the lower body and screw from the outside, repeating this over and over. The second bolt hole was even worse, since it had to be drilled with much more precision and left no room for error. This entire ordeal took up the rest of the class time. Ironically, we later realized that instead of struggling to drill perfect placements for the holes, we could’ve just drilled slightly larger holes to make screwing easier, then used nuts and washers to secure the motor in place.
 
 
+
+
+
+
+## 2nd-3rd December 2025
+
+<img width="370" alt="Screenshot 2025-12-12 at 7 09 53 PM" src="https://github.com/user-attachments/assets/93cc9164-349a-4607-b4f4-9ccf2b5aeb7b" />
+<img width="370" alt="Screenshot 2025-12-12 at 7 09 46 PM" src="https://github.com/user-attachments/assets/c621899a-a1dd-4321-9911-4645bfe441b1" />
+<img width="370" alt="Screenshot 2025-12-12 at 7 09 37 PM" src="https://github.com/user-attachments/assets/ef724ada-ee2c-43ea-b303-5d2d099b327a" />
+
+We finished soldering the Neopixels today, which took a very long time and required a lot of redoing. Wires soldered during the previous session kept detaching, and because the spaces between the solder points were so small, reheating one connection often melted the solder on the adjacent wire. As a result, fixing one wire usually meant having to redo two or even three. After we cut out 4 rectangular openings for the eyebrows, 2 for default brows (the bottom row) and 2 for raised brows (the top row). After that, we inserted the Neopixels behind these openings. We were extremely anxious pushing the Neopixels through the holes because we were worried the wires might detach again, especially where the wires were pressed into the tight perpendicular edge of the cardboard. To prevent anything from shifting, we secured each Neopixel firmly in place with multiple vertical strips of tape.
+
+
+
 ## Sunday 7th December 2025 (D-Day 2)
 Clara added the typing sound effect to our dialogue for the texting scene with the wife. We also made the executive decision to use only two functioning eyebrows. The eyebrow LEDs were far too unstable: sometimes all four worked, sometimes only three, and overall they were too unreliable. With the limited time we had left, it made more sense to focus on getting just the bottom two LED strips working consistently. During rehearsal, we realized the LEDs were too bright to be covered by the balding wig, so we decided to cover them with cardboard instead. We didn’t want to risk damaging the LED strip by applying hot glue directly onto it, especially since it could be reused, so we first placed tape over the LED strip and then applied hot glue on top of the tape to secure the cardboard. Finally, we adjusted the code so that the eyebrows remained lit throughout the dialogue and turned off at the appropriate moment when the lines finish. It was relatively easy as we used the delay() command. 
 
