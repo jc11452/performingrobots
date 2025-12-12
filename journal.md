@@ -53,12 +53,13 @@ Once we drilled it, we tried to screw the bolt through the wooden panel and into
 
 
 
-## Monday 8th December 2025 (D-Day 1)
+## Monday 7-8th December 2025 (D-Day 1)
 Today was our final rehearsal before D-Day. It started around 8 p.m., and overall things were running smoothly since we had double-checked everything the night before. Because Clara attended the earlier rehearsal but not the evening one (and I was the opposite) I ended up handling both the movement and case activation, which was a bit challenging. During rehearsal, our robot fell forward, literally landing face-down on the floor and knocking its mouth off. I identified two causes for the fall: first, the robot isn’t well-balanced and naturally leans forward, so any small forward jerk makes it likely to tip over. Second, the motor seems faulty. Whenever we try to move slowly, there’s strong resistance unless we push the RC controller to the maximum. But doing so makes the robot surge forward too quickly, and when we stop, it jerks forward abruptly. Because of the fall, the internal wires were messed up, which caused the transmitter controls to stop working. Another issue we discovered as well was that the typing/texting sound effect was far too quiet compared to the voice.
 
 So today was focused entirely on final repairs. Clara redid the typing sound effects and reuploaded them to both the receiver and the transmitter. We also discovered that the eyebrow soldering was still unstable, the wires were fraying and making contact with the other soldered point. We spent a long time on soldering, partly because (simply put) we aren't very good at soldering, but also because the LED placement made the angle extremely difficult. The ends of the LEDs were positioned very close to the perpendicular edge of the cardboard, so holding the wire in place without burning ourselves was a challenge. After the rehearsal, I stayed behind to figure out the transmitter issue. I suspected it was because of the wiring, and after rearranging everything, I tested all the cases to make sure it worked properly. When I brought the robot back to the lab to meet Clara, we decided to zip-tie the wires together to prevent them from becoming tangled again. Since we decided that the robot should move backward and then twist to face forward, we also continued painting the back of the robot silver.
 
 <img width="370" alt="Screenshot 2025-12-12 at 4 46 18 PM" src="https://github.com/user-attachments/assets/7f26c55f-d8b9-47f6-bef8-e35d67a54094" />
+<img width="370" alt="Screenshot 2025-12-12 at 5 21 14 PM" src="https://github.com/user-attachments/assets/bc1e1137-8116-4027-9f8f-a075162f5d07" />
 
 ## Tuesday 9th December 2025 (D-DAY!!!)
 <img width="370" alt="Screenshot 2025-12-12 at 4 24 29 PM" src="https://github.com/user-attachments/assets/dd16d9ed-a64e-4d05-83da-5eab8026f7ee" />
